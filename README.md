@@ -1,6 +1,10 @@
 flipper
 =======
 
+Documentation can be found at:
+http://www.hep.anl.gov/sdas/flipperDocumentation/
+
+
 Flipper is a light-weight python tool for working with CMB data which broadly provides three main functionalities:
 A suite of tools for operations performed on maps, like application of filters, taking gradients etc.
 An FFT and power spectrum tool, 
@@ -38,5 +42,7 @@ tar -xzf flipper-X.Y.Z.tar.gz
 Then in your startup script (e.g., .bashrc) put in the following commands:
 
 export FLIPPER_DIR=/path/where/you/want/flipper/to/live/flipper-X.Y.Z 
+
 export PATH=$PATH:$FLIPPER_DIR/bin 
+
 export PYTHONPATH=$PYTHONPATH:$FLIPPER_DIR/python
