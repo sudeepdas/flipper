@@ -13,10 +13,15 @@ Dependencies
 
 Flipper should work out of the box if it can import the following:
 numpy
+
 scipy http://www.scipy.org/
+
 pyfits http://www.stsci.edu/resources/software_hardware/pyfits
+
 astLib http://astlib.sourceforge.net/
+
 matplotlib http://matplotlib.sourceforge.net/
+
 healpy http://code.google.com/p/healpy/
 
 
