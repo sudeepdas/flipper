@@ -33,12 +33,7 @@ Installation
 ===============
 
 Flipper does not as yet have a standard python package installation. It will come soon! 
-This section gives a set of instructions for the current flipper installation. 
-In the instructions, substitute "X.Y.Z" with the appropriate flipper version number sequence.
-Visit http://www.astro.princeton.edu/~act/flipper to find valid version numbers.
-cd /path/where/you/want/flipper/to/live 
-wget http://www.astro.princeton.edu/~act/flipper/flipper-X.Y.Z.tar.gz 
-tar -xzf flipper-X.Y.Z.tar.gz 
+
 Then in your startup script (e.g., .bashrc) put in the following commands:
 
 export FLIPPER_DIR=/path/where/you/want/flipper/to/live/flipper-X.Y.Z 
