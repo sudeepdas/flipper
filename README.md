@@ -16,7 +16,8 @@ Dependencies
 ==============
 
 Flipper should work out of the box if it can import the following:
-numpy
+
+numpy 
 
 scipy http://www.scipy.org/
 
@@ -34,9 +35,10 @@ Installation
 
 Flipper does not as yet have a standard python package installation. It will come soon! 
 
-Then in your startup script (e.g., .bashrc) put in the following commands:
+For now, after forking and cloning flipper, 
+put the following commands in your startup script (e.g., .bashrc) :
 
-export FLIPPER_DIR=/path/where/you/want/flipper/to/live/flipper-X.Y.Z 
+export FLIPPER_DIR=/path/to/your/flipper/
 
 export PATH=$PATH:$FLIPPER_DIR/bin 
 
