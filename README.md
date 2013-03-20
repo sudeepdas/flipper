@@ -9,7 +9,9 @@ Flipper is a light-weight python tool for working with CMB data which broadly pr
 A suite of tools for operations performed on maps, like application of filters, taking gradients etc.
 An FFT and power spectrum tool, 
 implementing the core concepts from Das, Hajian and Spergel (2008) http://arxiv.org/abs/0809.1092v1
-A generic Preconditioned Conjugate Gradient solver for linear equations will be added soon.
+
+Flipper has become one of the most heavily used base codes in the Atacama Cosmology Telescope collaboration 
+and led to a slew of papers with over 300 citations. 
 
 
 Dependencies
