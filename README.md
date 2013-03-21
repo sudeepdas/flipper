@@ -10,6 +10,8 @@ A suite of tools for operations performed on maps, like application of filters, 
 An FFT and power spectrum tool, 
 implementing the core concepts from Das, Hajian and Spergel (2008) http://arxiv.org/abs/0809.1092v1
 
+Plus, Flipper has awesome visualization tools based on Matplotlib. 
+
 Flipper has become one of the most heavily used base codes in the Atacama Cosmology Telescope collaboration 
 and led to a slew of papers with over 300 citations. 
 
