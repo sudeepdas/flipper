@@ -20,7 +20,9 @@ import fftTools
 import liteMap
 import prewhitener
 import flTrace
-import astLib
+import astLib.astWCS
+import astLib.astCoords
+import astLib.astPlots
 import mtm
 
 
